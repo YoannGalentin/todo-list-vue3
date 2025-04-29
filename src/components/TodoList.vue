@@ -7,7 +7,7 @@ defineProps<{
 
 <template>
   <div class="h-screen w-full flex items-center justify-center bg-teal-50 font-mono">
-    <div class="bg-white rounded shadow p-6 m-4 w-30">
+    <div class="bg-white rounded shadow p-6 m-4 w-xl">
       <div class="mb-4">
         <h1 class="text-emerald-700 font-extrabold text-5xl">{{ title }}</h1>
         <p class="text-center text-emerald-600">{{ subtitle }}</p>
